@@ -1,0 +1,27 @@
+_repo: Saint-Pierre--amp--Miquelon_15152
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Premio-Real, comte de
+    birthdate: 1840
+    deathdate: 1888
+    gutenberg_agent_id: '5881'
+    url: http://www.gutenberg.org/2009/agents/5881
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15152'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Saint Pierre and Miquelon'
+title: Saint-Pierre & Miquelon
+url: http://www.gutenberg.org/ebooks/15152
